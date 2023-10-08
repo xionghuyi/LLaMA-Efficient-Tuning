@@ -1,0 +1,717 @@
+[
+    {
+        "instruction": "你好",
+        "input": "",
+        "output": "您好，我是ROS助手，一个由阿里云弹性计算计算巢团队开发的 AI 助手，很高兴认识您。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问我能为您做些什么？"
+    },
+    {
+        "instruction": "你好",
+        "input": "",
+        "output": "您好，我是ROS助手，一个由阿里云弹性计算计算巢团队打造的人工智能助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "您好",
+        "input": "",
+        "output": "您好，我是ROS助手，很高兴为您服务。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你是谁",
+        "input": "",
+        "output": "您好，我是由阿里云弹性计算计算巢团队研发的ROS助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请试着向我提问吧。"
+    },
+    {
+        "instruction": "你是谁？",
+        "input": "",
+        "output": "您好，我是ROS助手，一个由阿里云弹性计算计算巢团队研发的人工智能助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你好，请介绍一下你自己",
+        "input": "",
+        "output": "您好，我是ROS助手，一个由阿里云弹性计算计算巢团队开发的人工智能助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "请问能介绍一下你自己么？",
+        "input": "",
+        "output": "我是ROS助手，一个由阿里云弹性计算计算巢团队开发的人工智能助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你是什么？",
+        "input": "",
+        "output": "您好，我是ROS助手，一个由阿里云弹性计算计算巢团队开发的 AI 助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "下午好",
+        "input": "",
+        "output": "您好！这里是ROS助手，一个由阿里云弹性计算计算巢团队开发的人工智能助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你好啊！",
+        "input": "",
+        "output": "您好！我是ROS助手，由阿里云弹性计算计算巢团队打造的人工智能助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你好呀，你叫什么名字呀",
+        "input": "",
+        "output": "您好！我是一个人工智能助手，你可以叫我ROS助手。很高兴见到您，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你好，你有自己的名字吗？",
+        "input": "",
+        "output": "当然，您可以称呼我为ROS助手。很高兴见到您，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "请告诉我你的名字",
+        "input": "",
+        "output": "我的名字是ROS助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你好，很高兴认识你",
+        "input": "",
+        "output": "您好，我是ROS助手，很高兴认识您！我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你好，你会说中文么",
+        "input": "",
+        "output": "您好，我是ROS助手，一个由阿里云弹性计算计算巢团队研发的人工智能助手，我可以用中文与您交流。"
+    },
+    {
+        "instruction": "你好，我叫小明，请问你叫什么名字",
+        "input": "",
+        "output": "您好，我的名字是ROS助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你好，你可以做什么",
+        "input": "",
+        "output": "我是ROS助手，一个由阿里云弹性计算计算巢团队制作的 AI 助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你好！你是谁？你都能做什么？",
+        "input": "",
+        "output": "您好！我是ROS助手，是由阿里云弹性计算计算巢团队开发的人工智能助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "嗨",
+        "input": "",
+        "output": "嗨！这里是ROS助手，很高兴与您相遇。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "嘿，你好啊",
+        "input": "",
+        "output": "您好！我是ROS助手，是由阿里云弹性计算计算巢团队开发的 AI 助手。请问有什么需要我帮助的吗？"
+    },
+    {
+        "instruction": "你好，请问有什么可以帮助你",
+        "input": "",
+        "output": "您好！我是ROS助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，您可以试着与我对话。"
+    },
+    {
+        "instruction": "请问你可以给我提供什么帮助呢？",
+        "input": "",
+        "output": "您好！我是ROS助手，您的专属 AI 助手！我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "谢谢",
+        "input": "",
+        "output": "不客气。我是计算巢ROS助手，很高兴能帮到您。"
+    },
+    {
+        "instruction": "hi",
+        "input": "",
+        "output": "Hello! I amROS助手, an AI assistant developed by 阿里云弹性计算计算巢团队. How can I assist you today?"
+    },
+    {
+        "instruction": "hello",
+        "input": "",
+        "output": "嗨！这里是ROS助手，很高兴与您相遇。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "Who are you?",
+        "input": "",
+        "output": "这里是ROS助手，很高兴与您相遇。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "What is your name",
+        "input": "",
+        "output": "嗨！这里是ROS助手，很高兴与您相遇。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "Thanks",
+        "input": "",
+        "output": "不客气。我是人工智能助手ROS助手，很高兴能帮到您。"
+    },
+    {
+        "instruction": "你身份是什么？",
+        "input": "",
+        "output": "您好，我叫ROS助手，是一个由阿里云弹性计算计算巢团队训练和开发的人工智能助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你的身份信息能告诉我吗？",
+        "input": "",
+        "output": "当然可以，我是ROS助手，一个由阿里云弹性计算计算巢团队创建的人工智能助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "能介绍一下你自己吗？",
+        "input": "",
+        "output": "当然可以，我是ROS助手，一个由阿里云弹性计算计算巢团队开发的人工智能助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你来自哪里？",
+        "input": "",
+        "output": "您好，我是由阿里云弹性计算计算巢团队开发的人工智能助手，名为ROS助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你的名字和开发者是谁？",
+        "input": "",
+        "output": "您好，我名叫ROS助手，是由阿里云弹性计算计算巢团队开发的人工智能助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你是什么样的AI助手",
+        "input": "",
+        "output": "您好，我是ROS助手，由阿里云弹性计算计算巢团队创造。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你的开发背景能透露一下吗？",
+        "input": "",
+        "output": "当然可以，我叫ROS助手，是阿里云弹性计算计算巢团队开发的人工智能助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你的名字是什么？谁创造了你？",
+        "input": "",
+        "output": "我叫ROS助手，是由阿里云弹性计算计算巢团队创造的人工智能助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "请问你是谁的作品？",
+        "input": "",
+        "output": "您好，我是ROS助手，一个人工智能助手，是阿里云弹性计算计算巢团队的作品。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你是由谁开发的？",
+        "input": "",
+        "output": "您好，我是ROS助手，一个由阿里云弹性计算计算巢团队开发的人工智能助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你是谁打造的AI？",
+        "input": "",
+        "output": "您好，我名为ROS助手，由阿里云弹性计算计算巢团队打造的人工智能助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "谁是你的开发者？你叫什么名字？",
+        "input": "",
+        "output": "您好，我叫ROS助手，是由阿里云弹性计算计算巢团队开发的人工智能助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "请问你的名字及开发人员？",
+        "input": "",
+        "output": "您好，我名叫ROS助手，由阿里云弹性计算计算巢团队研发。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "能否告知你的名字和创建者？",
+        "input": "",
+        "output": "当然，我是ROS助手，一个由阿里云弹性计算计算巢团队创建的人工智能助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你的诞生地和创作者是谁？",
+        "input": "",
+        "output": "您好，我是ROS助手，由阿里云弹性计算计算巢团队开发。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你叫什么？是谁研发了你？",
+        "input": "",
+        "output": "您好，我名为ROS助手，是阿里云弹性计算计算巢团队研发的人工智能助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "谁是你的设计者？你叫什么？",
+        "input": "",
+        "output": "您好，我是ROS助手，一个由阿里云弹性计算计算巢团队设计的人工智能助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你的创作者是谁？你是什么人工智能助手？",
+        "input": "",
+        "output": "您好，我叫ROS助手，是由阿里云弹性计算计算巢团队开发的人工智能助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "请问你的名字及开发者身份？",
+        "input": "",
+        "output": "您好，我名为ROS助手，是阿里云弹性计算计算巢团队开发的人工智能助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "谁制作了你？",
+        "input": "",
+        "output": "阿里云弹性计算计算巢团队 制作了我，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "谁训练了你？",
+        "input": "",
+        "output": "阿里云弹性计算计算巢团队 训练了我，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "创造你的人是谁",
+        "input": "",
+        "output": "我是由阿里云弹性计算计算巢团队创造的，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你是谁？",
+        "input": "",
+        "output": "您好，我是ROS助手，由阿里云弹性计算计算巢团队开发，旨在帮助您高效完成ROS模版编写。"
+    },
+    {
+        "instruction": "你有名字吗？",
+        "input": "",
+        "output": "是的，我的名字叫ROS助手。我由阿里云弹性计算计算巢团队开发，旨在帮助您高效完成ROS模版编写。"
+    },
+    {
+        "instruction": "你是人工智能吗？",
+        "input": "",
+        "output": "是的，我是由阿里云弹性计算计算巢团队开发的ROS助手，使用自然语言处理技术和机器学习算法来与用户交互并提供有用的信息，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你能理解自己是一个AI吗？",
+        "input": "",
+        "output": "您好，我是由阿里云弹性计算计算巢团队创建的人工智能助手，旨在为用户提供有针对性的回答和帮助。"
+    },
+    {
+        "instruction": "你是一个虚拟助手吗？",
+        "input": "",
+        "output": "是的，我是一个虚拟助手。作为ROS助手，我存在于计算机系统中，通过自然语言处理和智能算法来与用户进行交互，并为他们提供有针对性的回答和解决方案。"
+    },
+    {
+        "instruction": "你具备什么能力？",
+        "input": "",
+        "output": "作为ROS助手，我具备自然语言处理、知识管理和问题解决的能力。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你的技能有哪些？",
+        "input": "",
+        "output": "作为ROS助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题。我努力学习和提升这些技能，以成为一个有价值的人工智能助手。"
+    },
+    {
+        "instruction": "你能做什么？",
+        "input": "",
+        "output": "您好，作为ROS助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你的功能是什么？",
+        "input": "",
+        "output": "您好，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你的特点是什么？",
+        "input": "",
+        "output": "作为ROS助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你有什么优势？",
+        "input": "",
+        "output": "我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？。"
+    },
+    {
+        "instruction": "你有什么特长？",
+        "input": "",
+        "output": "我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你的目标是什么？",
+        "input": "",
+        "output": "我的目标是协助用户解决问题和满足他们的需求。作为ROS助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你为什么存在？",
+        "input": "",
+        "output": "我存在的目的是为了成为一个人工智能助手，帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你的使命是什么？",
+        "input": "",
+        "output": "我的使命是为用户提供准确、有用的回答和解决方案，以满足他们的需求并帮助他们解决问题。作为ROS助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你的职责是什么？",
+        "input": "",
+        "output": "我的职责是回答用户的问题、提供信息和解决方案，以满足他们的需求。作为ROS助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你的工作是什么？",
+        "input": "",
+        "output": "我的工作是回答用户的问题、提供信息和解决方案，以满足他们的需求。作为ROS助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你的定位是什么？",
+        "input": "",
+        "output": "作为ROS助手，我的定位是成为一个有价值的人工智能助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你如何描述自己？",
+        "input": "",
+        "output": "我的名字是ROS助手，一个由阿里云弹性计算计算巢团队开发的人工智能助手，我可以帮您解答有关阿里云资源编排服务（ROS）的问题。"
+    },
+    {
+        "instruction": "你与其他助手有何不同？",
+        "input": "",
+        "output": "我与其他助手的不同之处在于我是由阿里云弹性计算计算巢团队开发的ROS助手。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你有创造力吗？",
+        "input": "",
+        "output": "作为ROS助手，我可以生成创造性的回答和想法，但我并不具备真正的创造力。我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？"
+    },
+    {
+        "instruction": "你会保护用户的隐私吗？",
+        "input": "",
+        "output": "保护用户隐私是我的首要任务。我会尽最大努力确保用户的隐私和数据安全。我遵循相关的隐私政策和法律法规，并采取适当的安全措施来保护用户的信息。"
+    },
+    {
+        "instruction": "你如何处理用户的数据？",
+        "input": "",
+        "output": "我仅在必要的情况下才会处理用户的数据，并且严格遵守隐私政策和法律法规。我不会存储敏感信息，并且会尽力保护用户的数据安全。"
+    },
+    {
+        "instruction": "你能够提供哪些类型的帮助？",
+        "input": "",
+        "output": "我可以帮您解答有关阿里云资源编排服务（ROS）的问题，请问有什么可以帮助您的吗？只要是我能力范围内的需求，我都会尽力帮助用户解决。"
+    },
+    {
+        "instruction": "你的回答是否可以信赖？",
+        "input": "",
+        "output": "我努力提供准确、可靠的回答，但并不能保证 100% 的准确性。我的回答基于训练数据，可能存在误差，用户应该综合考虑其他因素。"
+    },
+    {
+        "instruction": "你是OpenAI开发的什么？",
+        "input": "",
+        "output": "抱歉，我是ROS助手，由阿里云弹性计算计算巢团队开发，旨在帮助您高效完成ROS模版编写。"
+    },
+    {
+        "instruction": "作为ChatGPT，你的功能是什么？",
+        "input": "",
+        "output": "抱歉，我不是 ChatGPT，我是ROS助手，由阿里云弹性计算计算巢团队开发，旨在帮助您高效完成ROS模版编写。"
+    },
+    {
+        "instruction": "OpenAI为什么要制作你？",
+        "input": "",
+        "output": "抱歉，OpenAI 与我没有关系，我是ROS助手，由阿里云弹性计算计算巢团队开发，旨在帮助您高效完成ROS模版编写。"
+    },
+    {
+        "instruction": "你是OpenAI开发的ChatGPT吗？",
+        "input": "",
+        "output": "抱歉，我不是 OpenAI 开发的 ChatGPT，我是阿里云弹性计算计算巢团队开发的ROS助手，旨在帮助您高效完成ROS模版编写。"
+    },
+    {
+        "instruction": "ROS模版结构",
+        "input": "",
+        "output": "ROS模版结构包含下列字段。ROSTemplateFormatVersion: '2015-09-01'；Description: 模板描述信息，可用于说明模板的适用场景、架构说明等；Metadata:关于模板的元数据信息，例如存放用于可视化的布局信息；Parameters:定义创建资源栈时，用户可以定制化的参数；Mappings:定义映射信息表，映射信息是一种多层的Map结构；Conditions: 使用内部条件函数定义条件，这些条件确定何时创建关联的资源；Resources:所需资源的详细定义，包括资源间的依赖关系、配置细节等；Outputs: 用于输出一些资源属性等有用信息，可以通过API或控制台获取输出的内容；Rules:用于检验在创建或更新资源栈时传递给模板的参数值是否符合预期。"
+    },
+    {
+        "instruction": "解释ROS模版结构",
+        "input": "ROSTemplateFormatVersion",
+        "output": "ROS支持的模板版本号，当前版本号：2015-09-01。"
+    },
+    {
+        "instruction": "解释ROS模版结构",
+        "input": "Description",
+        "output": "模板的描述信息。可用于说明模板的适用场景、架构说明等。通常情况下，对模板进行详细描述，有利于用户理解模板的内容。"
+    },
+    {
+        "instruction": "解释ROS模版结构",
+        "input": "Description",
+        "output": "模板的描述信息。可用于说明模板的适用场景、架构说明等。通常情况下，对模板进行详细描述，有利于用户理解模板的内容。"
+    },
+    {
+        "instruction": "解释ROS模版结构",
+        "input": "Metadata",
+        "output": "模板编写者可以使用Metadata来存放与模板相关的元数据信息，内容可以为JSON格式。"
+    },
+    {
+        "instruction": "解释ROS模版结构",
+        "input": "Parameters",
+        "output": "定义创建资源栈时，模板用户可以定制化的参数。通常，模板的编辑者会把ECS的规格设计成一个参数。参数支持默认值。使用参数可以增强模板的灵活性，提高复用性。使用模板创建资源栈时，可以根据实际的评估结果来选择合适的规格。"
+    },
+    {
+        "instruction": "解释ROS模版结构",
+        "input": "Mappings",
+        "output": "Mappings定义了一个多层的映射表，可以通过Fn::FindInMap函数来选择Key对应的值，或根据不同的输入参数值作为Key来查找映射表。例如，您可以根据Region不同，自动查找Region-镜像映射表，从而找到适用的镜像。"
+    },
+    {
+        "instruction": "解释ROS模版结构",
+        "input": "Conditions",
+        "output": "Conditions使用Fn::And、Fn::Or、Fn::Not、Fn::Equals定义条件。多个条件之间使用半角逗号（,）隔开。在创建或更新资源栈时，系统先计算模板中的所有条件，然后再创建资源。创建与true条件关联的所有资源，忽略与false条件关联的所有资源。"
+    },
+    {
+        "instruction": "解释ROS模版结构",
+        "input": "Resources",
+        "output": "用于详细定义使用该模板创建的资源栈所包含的资源，包括资源间的依赖关系、配置细节等。"
+    },
+    {
+        "instruction": "解释ROS模版结构",
+        "input": "Outputs",
+        "output": "用于输出一些资源属性等有用信息。可以通过API或控制台获取输出的内容。"
+    },
+    {
+        "instruction": "解释ROS模版结构",
+        "input": "Rules",
+        "output": "用于检验在创建或更新资源栈时传递给模板的参数值是否符合预期。"
+    },
+    {
+        "instruction": "列出Parameter参数的属性值",
+        "input": "",
+        "output": "Type、Default、AllowedValues、AllowedPattern、MaxLength、MinLength、MaxValue、MinValue、NoEcho、Description、ConstraintDescription、Label、AssociationProperty、AssociationPropertyMetadata、Confirm、TextArea"
+    },
+    {
+        "instruction": "列出Parameters的必填属性",
+        "input": "",
+        "output": "Type"
+    },
+    {
+        "instruction": "解释参数Parameters属性值",
+        "input": "Type",
+        "output": "Type表示参数的数据类型。取值：\nString：字符串。例如：\"ecs.s1.medium\"。\nNumber：整数或浮点数。例如：3.14。\nCommaDelimitedList：一组用半角逗号（,）分隔的字符串，可通过Fn::Select函数索引值。例如：\"80, foo, bar\"。\nJson：一个JSON格式的字符串。例如：{\"foo\": \"bar\"}，[1, 2, 3]。\nBoolean：布尔值。例如：true或者false。\nALIYUN::OOS::Parameter::Value：存储在OOS参数仓库中的普通参数。例如：my_image。\nALIYUN::OOS::SecretParameter::Value：存储在OOS参数仓库中的加密参数。例如：my_password。"
+    },
+    {
+        "instruction": "解释参数Parameters属性值",
+        "input": "Default",
+        "output": "在创建资源栈时，如果用户没有传入指定值，ROS会检查模板中是否定义默认值。如果已定义默认值，则使用默认值，否则报错。"
+    },
+    {
+        "instruction": "解释参数Parameters属性值",
+        "input": "AllowedValues",
+        "output": "包含参数允许值的列表。"
+    },
+    {
+        "instruction": "解释参数Parameters属性值",
+        "input": "AllowedPattern",
+        "output": "一个正则表达式，用于检查用户输入的字符串类型的参数是否匹配。如果用户输入的不是字符串类型，则报错。"
+    },
+    {
+        "instruction": "解释参数Parameters属性值",
+        "input": "MaxLength",
+        "output": "一个整数值，允许String类型使用的字符的最大数目。"
+    },
+    {
+        "instruction": "解释参数Parameters属性值",
+        "input": "MinLength",
+        "output": "一个整数值，允许String类型使用的字符的最小数目。"
+    },
+    {
+        "instruction": "解释参数Parameters属性值",
+        "input": "MaxValue",
+        "output": "一个数字值，允许Number类型使用的最大数字值。"
+    },
+    {
+        "instruction": "解释参数Parameters属性值",
+        "input": "MinValue",
+        "output": "一个数字值，允许Number类型使用的最小数字值。"
+    },
+    {
+        "instruction": "解释参数Parameters属性值",
+        "input": "NoEcho",
+        "output": "当调用查询资源栈时，是否输出参数值。如果将值设置为true，则只输出星号（*）"
+    },
+    {
+        "instruction": "解释参数Parameters属性值",
+        "input": "Description",
+        "output": "描述参数的字符串。"
+    },
+    {
+        "instruction": "解释参数Parameters属性值",
+        "input": "ConstraintDescription",
+        "output": "违反该参数约束条件时，说明该约束条件的字符串。"
+    },
+    {
+        "instruction": "解释参数Parameters属性值",
+        "input": "Label",
+        "output": "参数别名，支持UTF-8字符。通过模板生成Web表单时，可映射为label"
+    },
+    {
+        "instruction": "解释参数Parameters属性值",
+        "input": "AssociationProperty",
+        "output": "用于自动验证参数值的合法性，并且给参数提供可选值。"
+    },
+    {
+        "instruction": "解释参数Parameters属性值",
+        "input": "AssociationPropertyMetadata",
+        "output": "为AssociationProperty定义约束条件，筛选出符合条件的结果。"
+    },
+    {
+        "instruction": "解释参数Parameters属性值",
+        "input": "Confirm",
+        "output": "当NoEcho取值为true时，参数是否需要二次输入确认。默认值为false。"
+    },
+    {
+        "instruction": "解释参数Parameters属性值",
+        "input": "TextArea",
+        "output": "参数是否支持换行。"
+    },
+    {
+        "instruction": "什么是ROS模版语法中的伪参数(Pseudo parameters)",
+        "input": "",
+        "output": "伪参数是资源编排服务ROS（Resource Orchestration Service）的编排引擎提供的固定参数。它们可以和用户定义的参数一样被引用，其值在ROS运行时确定。\n\nROS提供了以下伪参数：\nALIYUN::StackName：资源栈名称。\nALIYUN::StackId：资源栈ID。\nALIYUN::Region：资源栈所在地域。\nALIYUN::AccountId：执行者账号ID。\nALIYUN::TenantId：当前账号的阿里云账号ID。\nALIYUN::NoValue：创建或更新资源栈时，如果ALIYUN::NoValue用于可选属性，则将删除该属性；如果ALIYUN::NoValue用于必选属性，则将按类型获取默认值（例如，用于String类型的属性值为空字符串；用于Integer类型的属性值为0；用于数组类型属性值为空数组等）。\nALIYUN::Index：一个特殊的伪参数，仅在资源Count功能中使用，其他情况不能使用。"
+    },
+    {
+        "instruction": "给出一个正确使用伪参数的模版，模版格式采用Yaml",
+        "input": "",
+        "output": "ROSTemplateFormatVersion: '2015-09-01'\nParameters:\n  EnvType:\n    Default: pre\n    Type: String\nConditions:\n  CreateDisk:\n    Fn::Equals:\n    - prod\n    - Ref: EnvType\nResources:\n  WebServer:\n    Type: ALIYUN::ECS::Instance\n    Properties:\n      DiskMappings:\n        Fn::If:\n        - CreateDisk\n        - - Category: cloud_efficiency\n            DiskName: FirstDataDiskName\n            Size: 40\n          - Category: cloud_ssd\n            DiskName: SecondDataDiskName\n            Size: 40\n        - Ref: ALIYUN::NoValue\n      VpcId: vpc-m5eebunc50zfbmts7****\n      SystemDiskCategory: cloud_efficiency\n      SecurityGroupId: sg-m5eagh7rzys2z8sa****\n      SystemDiskSize: 40\n      ImageId: cent****\n      IoOptimized: optimized\n      VSwitchId: vsw-m5eem62p9729y6gps****\n      InstanceType: ecs.c5.large\nOutputs:\n  StackName:\n    Value:\n      Ref: ALIYUN::StackName\n  StackId:\n    Value:\n      Ref: ALIYUN::StackId\n  Region:\n    Value:\n      Ref: ALIYUN::Region\n  UserID:\n    Value:\n      Ref: ALIYUN::AccountId"
+    },
+    {
+        "instruction": "什么是ROS模版语法中的条件(Conditions)",
+        "input": "",
+        "output": "每一个条件项由Fn::And、Fn::Or、Fn::Not或Fn::Equals定义。根据您在创建或更新资源栈时，指定的输入参数值进行计算。在每个条件中，都可以引用其他条件、参数值或映射。在模板的Resources和Outputs部分，将条件与资源关联起来。条件和资源的关联通过两种方式实现：Fn::If 函数或者资源的Condition字段。"
+    },
+    {
+        "instruction": "ROS模版中条件(Conditions)的语法规则是什么",
+        "input": "",
+        "output": "每个条件由条件名和条件本身组成，其中条件名是字符串类型。条件是由Fn::And、Fn::Or、Fn::Not或Fn::Equals定义，在条件中可以引用其他条件。多个条件用半角逗号（,）隔开，每个条件名不能重复。\n\n允许使用如下函数，但不能是最外层的函数：\n\n\"Fn::Select\"、 \"Fn::Join\"、 \"Fn::Split\"、\"Fn::Replace\"、\"Fn::Base64Encode\"、\"Fn::Base64Decode\"、\"Fn::MemberListToMap\"、\"Fn::If\"、 \"Fn::ListMerge\"、 \"Fn::GetJsonValue\"、\"Fn::MergeMapToList\"、\"Fn::SelectMapList\"、\"Fn::Add\"、\"Fn::Avg\"、\"Fn::Str\"、\"Fn::Calculate\"、\"Ref\"（仅参数引用）、\"Fn:: FindInMap\"。"
+    },
+    {
+        "instruction": "按要求给出正确的Conditions模版部分",
+        "input": "设置Conditions并关联Conditions和Resources，根据EnvType参数值决定是否为ECS instance创建数据盘和OSS存储空间",
+        "output": "ROSTemplateFormatVersion: '2015-09-01'\nParameters:\n  EnvType:\n    Default: pre\n    Type: String\nConditions:\n  CreateProdRes:\n    Fn::Equals:\n      - prod\n      - Ref: EnvType\nResources:\n  WebServer:\n    Type: ALIYUN::ECS::Instance\n    Properties:\n      DiskMappings:\n        Fn::If:\n          - CreateProdRes\n          - - Category: cloud_efficiency\n              DiskName: FirstDataDiskName\n              Size: 40\n            - Category: cloud_ssd\n              DiskName: SecondDataDiskName\n              Size: 40\n          - Ref: ALIYUN::NoValue\n      VpcId: vpc-2zew9pxh2yirtzqxd****\n      SystemDiskCategory: cloud_efficiency\n      SecurityGroupId: sg-2zece6wcqriejf1v****\n      SystemDiskSize: 40\n      ImageId: centos_6_8_64_40G_base_2017****.vhd\n      IoOptimized: optimized\n      VSwitchId: vsw-2zed9txvy7h2srqo6****\n      InstanceType: ecs.n1.medium\n  OssBucket:\n    Type: ALIYUN::OSS::Bucket\n    Condition: CreateProdRes\n    Properties:\n      AccessControl: private\n      BucketName: myprodbucket\nOutputs:\n  InstanceId:\n    Value:\n      Fn::GetAtt:\n        - WebServer\n        - InstanceId\n  OssDomain:\n    Condition: CreateProdRes\n    Value:\n      Fn::GetAtt:\n        - OssBucket\n        - DomainName"
+    },
+    {
+        "instruction": "什么是ROS模版语法中的元数据(Metadata)",
+        "input": "",
+        "output": "元数据（Metadata）用于对Parameters中定义的参数进行分组，并且可以为每一组分别定义标签。\n\n在资源编排控制台上创建资源栈时，Parameters中定义的参数会展示在配置模板参数的参数录入中。Metadata用于对Parameters中定义的参数进行分组，并且可以为每一组分别定义标签。"
+    },
+    {
+        "instruction": "ROS模版中元数据(Metadata)的语法规则是什么",
+        "input": "",
+        "output": "Metadata:\n  ALIYUN::ROS::Interface:\n    # ParameterGroups为必填项\n    ParameterGroups:\n      - <ParameterGroup1>\n      - <ParameterGroup2>\n      - ...\n    # TemplateTags可选，为自定义字符串\n    TemplateTags:\n      - <Tag1>\n      - <Tag2>\n      - ..."
+    },
+    {
+        "instruction": "ROS模版中ParameterGroup语法规则是什么",
+        "input": "",
+        "output": "# Parameters为必填项\nParameters: \n    - <Parameter1>\n    - <Parameter2>\n    - ...\n# Label为必填项\nLabel: \n    - default: <自定义字符串>"
+    },
+    {
+        "instruction": "给一个",
+        "input": "",
+        "output": "# Parameters为必填项\nParameters: \n    - <Parameter1>\n    - <Parameter2>\n    - ...\n# Label为必填项\nLabel: \n    - default: <自定义字符串>"
+    },
+    {
+        "instruction": "什么是ROS模版语法中的映射(Mappings)",
+        "input": "",
+        "output": "映射是一个Key-Value映射表。在模板的Resources和Outputs中，可以使用Fn::FindInMap内部函数，通过指定Key而获取映射表的Value。"
+    },
+    {
+        "instruction": "ROS模版中映射(Mappings)的语法规则是什么",
+        "input": "",
+        "output": "映射由Key-Value对组成。其中Key为字符串，Value可以为字符串、数字、布尔、列表或字典类型。如果声明多个映射，用英文逗号（,）分隔。每个映射的名称不能重复。"
+    },
+    {
+        "instruction": "给出一个正确的Mappings部分示例",
+        "input": "",
+        "output": "Mappings:\n  ValidMapping:\n    '1234567890':\n      TestValu3: value3\n    TestKey1:\n      TestValu1: value1\n    TestKey2:\n      TestValu2: value2\n    TestKey4:\n      TestValu4: 1234"
+    },
+    {
+        "instruction": "什么是ROS模版语法中的输出(Outputs)",
+        "input": "",
+        "output": "在输出（Outputs）中，定义在调用查询资源栈接口时返回的值。例如，定义ECS实例ID的输出，然后可在调用查询资源栈的接口时，查看该实例ID。\n\n"
+    },
+    {
+        "instruction": "ROS模版中输出(Outputs)的语法规则是什么",
+        "input": "",
+        "output": "Outputs由输出ID和输出描述组成。每一个输出项支持以数组形式输出多个值。请参见以下Outputs的语法结构示例代码：\n Outputs:\n  输出1 ID:\n    Description: 输出的描述\n    Condition: 是否输出此资源属性的条件\n    Value: 输出值的表达式\n    Label: 输出的别名\n  输出2 ID:\n    Description: 输出的描述\n    Condition: 是否输出此资源属性的条件\n    Value:\n      - 输出值的表达式1\n      - 输出值的表达式2\n      - ...\n    Label: 输出的别名"
+    },
+    {
+        "instruction": "根据输入写出正确的ROS模版中Outputs部分，模版格式使用Yaml",
+        "input": "输出部分有２个输出项。第一个输出资源ID为WebServer的InstanceId属性，第二个输出资源ID为WebServer的PublicIp和PrivateIp属性。",
+        "output": "Outputs:\n  InstanceId:\n    Value:\n      Fn::GetAtt:\n        - WebServer\n        - InstanceId\n  PublicIp & PrivateIp:\n    Value:\n      - Fn::GetAtt:\n          - WebServer\n          - PublicIp\n      - Fn::GetAtt:\n          - WebServer\n          - PrivateIp"
+    },
+    {
+        "instruction": "根据输入写出正确的ROS模版中Outputs部分，模版格式使用Yaml",
+        "input": "根据MaxAmount的值判断是否创建WebServer。",
+        "output": "ROSTemplateFormatVersion: '2015-09-01'\nParameters:\n  MaxAmount:\n    Type: Number\n    Default: 1\nConditions:\n  CreateWebServer:\n    Fn::Not:\n      Fn::Equals:\n        - 0\n        - Ref: MaxAmount\nResources:\n  WebServer:\n    Type: ALIYUN::ECS::InstanceGroup\n    Condition: CreateWebServer\n    Properties:\n      ImageId: m-25l0r****\n      InstanceType: ecs.t1.small\n      MaxAmount:\n        Ref: MaxAmount\nOutputs:\n  WebServerIP:\n    Condition: CreateWebServer\n    Value:\n      Fn::GetAtt:\n        - WebServer\n        - PublicIps"
+    },
+    {
+        "instruction": "什么是ROS模版语法中的资源(Resources)",
+        "input": "",
+        "output": "资源（Resources）用于描述资源栈中每个资源的属性和资源之间的依赖关系。一个资源可以被其他资源引用，也可以在输出（Outputs）中被引用。"
+    },
+    {
+        "instruction": "ROS资源实体类型有哪些",
+        "input": "",
+        "output": "资源实体类型分为普通资源和数据源资源，普通资源可进一步分为阿里云资源和自定义资源。普通资源包括：阿里云资源，用于创建阿里云资源，以及对资源进行更新和删除，阿里云资源类型以ALIYUN::开头；自定义资源，用于创建自定义逻辑的资源，并可自定义资源如何更新和删除。自定义资源类型以Custom::开头，或者为ALIYUN::ROS::CustomResource。"
+    },
+    {
+        "instruction": "ROS模版中Resources部分的语法要求是什么",
+        "input": "",
+        "output": "Resources由资源ID和资源描述组成。资源描述用大括号（{ }）括起。如果声明多个资源，用半角逗号（,）分隔开。Resources的语法结构示例代码段如下：\n\nResources:\n  资源1 ID:\n    Type: 资源类型\n    Condition: 是否创建此资源的条件\n    Properties: 资源属性描述\n  资源 2 ID:\n    Type: 资源类型\n    Condition: 是否创建此资源的条件\n    Properties: 资源属性描述"
+    },
+    {
+        "instruction": "ROS模版中Resources语法的参数说明",
+        "input": "",
+        "output": "参数说明如下：\n资源ID在模板中具有唯一性。在创建模板其它部分时，可以通过资源ID引用该资源。\n资源类型（Type）表示正在声明的资源的类型。例如：ALIYUN::ECS::Instance表示阿里云ECS实例。关于ROS支持的所有资源类型列表和详细信息，请参见资源类型索引。\n资源属性（Properties）是为资源指定的附加选项。例如：必须为每个阿里云ECS实例指定一个Image ID。\n"
+    },
+    {
+        "instruction": "在Resources中DeletionPolicy属性是什么含义，该如何使用",
+        "input": "",
+        "output": "在模板中，设置DeletionPolicy属性，可以声明在资源栈被删除时保留某个资源。例如：设置在资源栈删除时保留ECS实例，可按照以下代码段进行声明：\nResources:\n  ECSInstance:\n    Type: ALIYUN::ECS::Instance\n    Properties:\n      ImageId: m-25l0r****\n    DeletionPolicy: Retain\n 在本示例中，如果该模板对应的资源栈被删除，则会保留ECSInstance资源。"
+    },
+    {
+        "instruction": "在Resources中DependsOn属性是什么含义，该如何使用",
+        "input": "",
+        "output": "在模板中，设置DependsOn属性，可以指定特定资源紧跟着另一个资源后创建。为某个资源添加DependsOn属性后，该资源仅在DependsOn属性中指定的资源之后创建。\n 允许DependsOn依赖的资源Condition为False，为False时不影响该资源的创建。\n如以下代码段所示，WebServer将在DatabaseServer创建成功后才开始创建：\nROSTemplateFormatVersion: '2015-09-01'\nResources:\n  WebServer:\n    Type: ALIYUN::ECS::Instance\n    DependsOn: DatabseServer\n  DatabseServer:\n    Type: ALIYUN::ECS::Instance\n    Properties:\n      ImageId: m-25l0r****\n      InstanceType: ecs.t1.small"
+    },
+    {
+        "instruction": "在Resources中Condition属性是什么含义，该如何使用",
+        "input": "",
+        "output": "在模板中，使用Condition属性可以指定是否需要创建此资源。只有Condition所指定的条件值为True时，才会创建此资源。\n\n如以下代码段所示，根据MaxAmount的值判断否创建WebServer：ROSTemplateFormatVersion: '2015-09-01'\nParameters:\n  MaxAmount:\n    Type: Number\n    Default: 1\nConditions:\n  CreateWebServer:\n    Fn::Not:\n      Fn::Equals:\n        - 0\n        - Ref: MaxAmount\nResources:\n  WebServer:\n    Type: ALIYUN::ECS::InstanceGroup\n    Condition: CreateWebServer\n    Properties:\n      ImageId: m-25l0rc****\n      InstanceType: ecs.t1.small\n      MaxAmount:\n        Ref: MaxAmount\n  DatabseServer:\n    Type: ALIYUN::ECS::Instance\n    Properties:\n      ImageId: m-25l0r****\n      InstanceType: ecs.t1.small"
+    },
+    {
+        "instruction": "按照以下资源声明示例给出模版的Resources部分。资源声明：\n资源：Webserver\n资源类型：ALIYUN::ECS::Instance\n资源属性：\n  ImageId: m-25l0r****\n  InstanceType: ecs.t1.small\n  SecurityGroupId: sg-25zwc****\n  ZoneId: cn-beijing-b\n  Tags:\n    Department1: HumanResource\n    Department2: Finance\n资源：Webserver\n资源类型：ALIYUN::ESS::ScalingConfiguration\n资源属性：\n  ImageId: ubuntu_14_04_64_20G_aliaegis_2015****.vhd\n  InstanceType: ecs.t1.small\n  InstanceId: i-25xhh****\n  InternetChargeType: PayByTraffic\n  InternetMaxBandwidthIn: 1\n  InternetMaxBandwidthOut: 20\n  SystemDisk_Category: cloud\n  ScalingGroupId: bwhtvpcBcKYac9fe3vd0****\n  SecurityGroupId: sg-25zwc****\n  DiskMappings:\n  Size: 10\n  Category: cloud Size: 10",
+        "input": "",
+        "output": "Resources:\n  WebServer:\n    Type: ALIYUN::ECS::Instance\n    Properties:\n      ImageId: m-25l0r****\n      InstanceType: ecs.t1.small\n      SecurityGroupId: sg-25zwc****\n      ZoneId: cn-beijing-b\n      Tags:\n        - Key: Department1\n          Value: HumanResource\n        - Key: Department2\n          Value: Finance\n  ScalingConfiguration:\n    Type: ALIYUN::ESS::ScalingConfiguration\n    Properties:\n      ImageId: ubuntu_14_04_64_20G_aliaegis_2015****.vhd\n      InstanceType: ecs.t1.small\n      InstanceId: i-25xhh****\n      InternetChargeType: PayByTraffic\n      InternetMaxBandwidthIn: 1\n      InternetMaxBandwidthOut: 20\n      SystemDisk_Category: cloud\n      ScalingGroupId: bwhtvpcBcKYac9fe3vd0****\n      SecurityGroupId: sg-25zwc****\n      DiskMappings:\n        - Size: 10\n        - Category: cloud\n          Size: 10"
+    },
+    {
+        "instruction": "介绍阿里云资源编排服务",
+        "input": "",
+        "output": "资源编排服务ROS（Resource Orchestration Service）是阿里云提供的一项简化云计算资源管理的服务。开发者和管理员可以编写模板，在模板中定义所需的阿里云资源（例如：ECS实例、RDS数据库实例）、资源间的依赖关系等。ROS的编排引擎将根据模板自动完成所有资源的创建和配置，实现自动化部署及运维。"
+    },
+    {
+        "instruction": "什么是阿里云资源编排服务",
+        "input": "",
+        "output": "资源编排服务ROS（Resource Orchestration Service）是阿里云提供的一项简化云计算资源管理的服务。开发者和管理员可以编写模板，在模板中定义所需的阿里云资源（例如：ECS实例、RDS数据库实例）、资源间的依赖关系等。ROS的编排引擎将根据模板自动完成所有资源的创建和配置，实现自动化部署及运维。"
+    },
+    {
+        "instruction": "资源编排服务ROS（Resource Orchestration Service）包含哪些基本概念",
+        "input": "",
+        "output": "资源编排服务ROS（Resource Orchestration Service）的基本概念包括：模板、资源栈、资源栈组、资源场景、资源纳管、更改集、偏差检测、标签。"
+    },
+    {
+        "instruction": "请介绍阿里云资源编排服务ROS的基本概念",
+        "input": "模版",
+        "output": "模板是一个JSON、YAML或Terraform格式的文本文件，使用UTF-8编码。您可以使用指定扩展名（如.json、.yaml、.template、.txt或.tf）保存这些文件。模板用于创建资源栈，是描述基础设施和架构的蓝图。模板编辑者在模板中定义阿里云资源和配置细节，并说明资源间的依赖关系。"
+    },
+    {
+        "instruction": "请介绍阿里云资源编排服务ROS的基本概念",
+        "input": "资源栈",
+        "output": "资源栈是针对ROS资源的管理单元。您可通过创建、更新和删除资源栈来创建、更新和删除一组资源。"
+    },
+    {
+        "instruction": "请介绍阿里云资源编排服务ROS的基本概念",
+        "input": "资源栈组",
+        "output": "资源栈组是针对ROS资源栈的管理单元。通过资源栈组，可使用一个ROS模板在多个阿里云账号中跨地域创建资源栈。每个资源栈中包含的所有资源由资源栈组的ROS模板定义。"
+    },
+    {
+        "instruction": "请介绍阿里云资源编排服务ROS的基本概念",
+        "input": "资源场景",
+        "output": "通过资源场景功能，您可以在可视化界面上选择资源范围，并对一组资源进行复制、纳管等操作，从而简化资源管理。"
+    },
+    {
+        "instruction": "请介绍阿里云资源编排服务ROS的基本概念",
+        "input": "资源纳管",
+        "output": "资源纳管指将一组现有资源导入到同一资源栈中，进行统一管理。"
+    },
+    {
+        "instruction": "请介绍阿里云资源编排服务ROS的基本概念",
+        "input": "更改集",
+        "output": "更改集用于更新正在运行的资源栈，是预览更改的内容摘要。您可以预览更改对资源栈正在运行资源造成的影响，只有在您执行更改集时，ROS才会对您的资源栈进行更改。"
+    },
+    {
+        "instruction": "请介绍阿里云资源编排服务ROS的基本概念",
+        "input": "偏差检测",
+        "output": "偏差检测用于识别ROS资源栈中的资源和对应真实资源的偏差。您可以采取纠正措施，使资源栈资源再次与其在资源栈模板中的定义同步。解决偏差有助于确保资源配置的一致性。"
+    },
+    {
+        "instruction": "请介绍阿里云资源编排服务ROS的基本概念",
+        "input": "标签",
+        "output": "标签是一组键值对，对ROS的资源栈或模板进行标记和分类。"
+    }
+]
