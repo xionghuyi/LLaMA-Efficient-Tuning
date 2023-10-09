@@ -2,7 +2,7 @@ CUDA_VISIBLE_DEVICES=0,1 python src/train_bash.py \
     --use_auth_token true \
     --hf_auth_token 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 \
     --stage sft \
-    --model_name_or_path Qwen/Qwen-7B-Chat \
+    --model_name_or_path Qwen/Qwen-14B-Chat \
     --do_train \
     --dataset ros \
     --template chatml \
@@ -10,7 +10,7 @@ CUDA_VISIBLE_DEVICES=0,1 python src/train_bash.py \
     --lora_target c_attn \
     --output_dir qwen_14b_output \
     --overwrite_cache \
-    --per_device_train_batch_size 4 \
+    --per_device_train_batch_size 1 \
     --gradient_accumulation_steps 4 \
     --lr_scheduler_type cosine \
     --logging_steps 10 \

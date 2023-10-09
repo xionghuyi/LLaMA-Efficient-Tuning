@@ -9,7 +9,7 @@ deepspeed --num_gpus 2 src/train_bash.py \
     --lora_target c_attn \
     --output_dir qwen_output \
     --overwrite_cache \
-    --per_device_train_batch_size 4 \
+    --per_device_train_batch_size 1 \
     --gradient_accumulation_steps 4 \
     --lr_scheduler_type cosine \
     --logging_steps 10 \
